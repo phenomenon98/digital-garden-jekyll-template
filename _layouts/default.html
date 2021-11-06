@@ -5,9 +5,11 @@
     <nav>{% include nav.html %}</nav>
     <div class="wrapper">
       <main>{{ content }}</main>
+    </div>
+   
+    <div style="align-items: center; display: flex; justify-content: center;">
       <footer>{% include footer.html %}</footer>
     </div>
-
     {% include link-previews.html wrapperQuerySelector="content" %}
   </body>
 </html>
