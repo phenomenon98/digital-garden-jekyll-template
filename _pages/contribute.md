@@ -7,7 +7,7 @@ permalink: /contribute
 
 The article needs to be written in markdown. You can find a sample article that describes the format <a class="external-link" href="https://cdn.discordapp.com/attachments/906648854554886144/906652300729274418/superteamknowledgebase_articleguide.md">here </a>
 
-The best way too contribute would be to raise a PR over <a class="external-link" href="https://github.com/phenomenon98/superteam-community-knowledgebase"> here</a>. If you are not familiar with git you can fill up the form below.
+The best way to contribute would be to raise a PR over <a class="external-link" href="https://github.com/phenomenon98/superteam-community-knowledgebase"> here</a>. <br>If you are not familiar with git you can just fill up the form below.
 
 
 
